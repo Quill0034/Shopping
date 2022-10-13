@@ -4,6 +4,4 @@ const nextConfig = {
   swcMinify: true,
 }
 
-module.exports = {
-  webpack5: false,
-}
+export default nextConfig
